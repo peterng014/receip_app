@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receip_types>
+    <type>
+        <id>1</id>
+        <name>Name 1</name>
+    </type>
+    <type>
+        <id>2</id>
+        <name>Name 2</name>
+    </type>
+    <type>
+        <id>3</id>
+        <name>Name 3</name>
+    </type>
+</receip_types>
